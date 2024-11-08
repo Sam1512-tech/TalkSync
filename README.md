@@ -1,6 +1,6 @@
-# ActiveComms
+# TalkSync
 
-ActiveComms is a responsive chat website designed for small organizations or departments to facilitate seamless communication among users. Whether you're working on your desktop or on the go with your mobile device, ActiveComms ensures that you can stay connected with your colleagues or team members at all times.
+TalkSync is a responsive chat website designed for small organizations or departments to facilitate seamless communication among users. Whether you're working on your desktop or on the go with your mobile device, TalkSync ensures that you can stay connected with your colleagues or team members at all times.
 
 ## Features
 1. **Login and Signup:** Users can create an account or login to an existing one to access the chat platform.
@@ -14,7 +14,7 @@ ActiveComms is a responsive chat website designed for small organizations or dep
 5. **Notification Sound:** Users receive a notification sound upon receiving a message if they have enabled this feature.
 
 ## Usage
-To use ActiveComms, follow these simple steps:
+To use TalkSync, follow these simple steps:
 
 - **Signup/Login:** If you are a new user, sign up for an account. If you already have an account, simply log in.
 
@@ -25,7 +25,7 @@ To use ActiveComms, follow these simple steps:
 - **Logout:** When you're done using ActiveComms, securely log out of your account to protect your privacy.
 
 ## Development
-ActiveComms is built using modern web technologies to ensure a responsive and secure user experience. The following technologies are used:
+TalkSync is built using modern web technologies to ensure a responsive and secure user experience. The following technologies are used:
 
 - **Frontend:** HTML5, CSS3, JavaScript (React.js)
 - **Backend:** Node.js, Express.js
@@ -33,7 +33,7 @@ ActiveComms is built using modern web technologies to ensure a responsive and se
 - **Authentication:** JSON Web Tokens (JWT)
 - **Real-Time Communication:** WebSocket
 
-To contribute to the development of ActiveComms, follow these steps:
+To contribute to the development of TalkSync, follow these steps:
 
 1. **Clone the repository:** `git clone https://github.com/your-username/ActiveComms.git`
 2. **Install dependencies:** `npm install`
