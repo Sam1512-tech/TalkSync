@@ -35,6 +35,6 @@ TalkSync is built using modern web technologies to ensure a responsive and secur
 
 To contribute to the development of TalkSync, follow these steps:
 
-1. **Clone the repository:** `git clone https://github.com/your-username/ActiveComms.git`
+1. **Clone the repository:** `git clone https://github.com/your-username/TalkSync.git`
 2. **Install dependencies:** `npm install`
 3. **Start the development server:** `npm start`
